@@ -1,5 +1,3 @@
-Here's a concise and polished version of the README:
-
 ---
 
 # Image Downloader
