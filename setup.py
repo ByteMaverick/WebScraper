@@ -8,7 +8,7 @@ setup(
     description='A library for downloading images from the web.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/image_downloader',  # Replace with your repo link
+    url='https://github.com/ByteMaverick/WebScraper',  
     packages=find_packages(),
     install_requires=[
         'requests',
