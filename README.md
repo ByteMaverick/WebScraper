@@ -55,14 +55,4 @@ downloader.download_images("Chris Evans", "/path/to/save", count=30)
 
 ---
 
-## Contributing
-We welcome contributions! Fork the repo and submit a pull request to help improve this library.
 
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you want help refining it further or creating the GitHub repository!
