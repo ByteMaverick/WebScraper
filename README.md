@@ -1,16 +1,21 @@
 ---
 
-# Image Downloader
+#  🎞️ Image Downloader
 
 A lightweight Python library to search and download images from the web effortlessly. Perfect for automation, batch downloads, and data collection projects.
 
 ---
 
+
 ## Features
-- **Search and Download**: Collect images from Bing with custom queries.
-- **Batch Processing**: Handle multiple queries in one go.
-- **Error Handling**: Skips invalid links and logs errors.
-- **Folder Management**: Automatically organizes downloads.
+- **🔍 Search and Download**: Collect images from Bing with custom queries.  
+- **📂 Batch Processing**: Handle multiple queries in one go.  
+- **⚙️ Error Handling**: Skips invalid links and logs errors.  
+- **🗂️ Folder Management**: Automatically organizes downloads.  
+
+
+
+
 
 ---
 
