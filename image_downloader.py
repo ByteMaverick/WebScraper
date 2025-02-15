@@ -96,10 +96,10 @@ class ImageDownloader:
         search_query = name.replace(' ', '+')
         url = f"https://www.bing.com/images/search?q={search_query}&form=HDRSC3"
 
-        # resquest HTML
+      
         response = requests.get(url, headers=self.headers)
 
-        # Parse Html
+
         Soup = BeautifulSoup(response.text, "html.parser")
         images = Soup.find_all(keyword)
 
